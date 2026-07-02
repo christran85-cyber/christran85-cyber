@@ -1,100 +1,242 @@
-# 💻 IT / Systems Administration Projects Portfolio
+# 💻 IT Infrastructure • Cloud • Systems Administration Portfolio
 
-Welcome to my IT projects portfolio. This repository showcases hands-on experience in **system administration, networking, Active Directory, cloud concepts, and automation using real-world lab environments**.
+Welcome to my hands-on IT portfolio.
+
+This repository showcases practical projects focused on **Systems Administration, Cloud Infrastructure, Identity Management, Networking, Security, and Automation** using enterprise technologies and real-world lab environments.
+
+My goal is to continuously build production-style projects that demonstrate practical experience beyond certifications.
 
 ---
 
-## 📌 About Me
-I am an aspiring IT professional with experience in:
-- Windows Server administration
-- Active Directory & identity management
-- Networking (DNS, DHCP, NAT, RRAS)
-- IT infrastructure troubleshooting
-- Python automation for system administration
+# 👨‍💻 About Me
+
+I'm an aspiring Systems Administrator / Cloud Administrator with a passion for building enterprise IT environments from the ground up.
+
+Current areas of focus include:
+
+- Windows Server Administration
+- Active Directory & Identity Management
+- AWS Cloud Infrastructure
+- Networking
+- Infrastructure Security
+- Python Automation
+- Cloud Cost Management
+- IT Documentation & Best Practices
 
 ---
 
 # 🎓 Certifications
 
-- CompTIA A+  
-- CompTIA Network+  
-- CompTIA Security+  
-- AWS Certified Cloud Practitioner (CLF-C02)
+- ✅ CompTIA A+
+- ✅ CompTIA Network+
+- ✅ CompTIA Security+
+- ✅ AWS Certified Cloud Practitioner (CLF-C02)
+
+---
+
+# 🛠 Technical Skills
+
+## Operating Systems
+
+- Windows Server 2025
+- Windows 11
+
+## Cloud Platforms
+
+- Amazon Web Services (AWS)
+
+## Identity & Access Management
+
+- Active Directory Domain Services
+- AWS IAM
+- Group Policy Objects (GPO)
+- Role-Based Access Control (RBAC)
+
+## Networking
+
+- DNS
+- DHCP
+- NAT
+- RRAS
+- TCP/IP
+- CloudFront CDN
+
+## AWS Services
+
+- Amazon S3
+- Amazon CloudFront
+- Amazon CloudWatch
+- AWS IAM
+- AWS Budgets
+- AWS Cost Explorer
+
+## Automation
+
+- Python
+- pyad
+- pywin32
+
+## Virtualization
+
+- VirtualBox
+
+## Version Control
+
+- Git
+- GitHub
+- Markdown Documentation
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 Active Directory Enterprise Lab (Windows Server 2025)
+# 🏢 Active Directory Enterprise Masterlab
 
-### 🔗 Project Link
-[View Project](https://github.com/christran85-cyber/Active-directory-Masterlab/blob/main/README.md)
+## 🔗 Project
 
----
-
-### 📖 Overview
-Built a fully functional enterprise-style Active Directory environment using **Windows Server 2025 and Windows 11 virtual machines** in VirtualBox. This lab simulates real-world IT infrastructure used in corporate environments.
+https://github.com/christran85-cyber/Active-directory-Masterlab
 
 ---
 
-### ⚙️ Technologies Used
+## Overview
+
+Designed and deployed a complete enterprise Active Directory environment using Windows Server 2025 and Windows 11 virtual machines.
+
+The environment simulates a real corporate network with centralized identity management, network services, security policies, and automation.
+
+---
+
+## Technologies
+
 - Windows Server 2025
 - Windows 11
-- Active Directory Domain Services (AD DS)
-- DNS / DHCP
+- Active Directory
+- DNS
+- DHCP
 - NAT (RRAS)
-- Group Policy Objects (GPO)
-- Python (pyad, pywin32)
+- Group Policy
+- Python
 - VirtualBox
 
 ---
 
-### 🧱 Key Features
-- Deployed and configured a Domain Controller
-- Created and managed Active Directory domain structure
-- Configured DNS and DHCP services for internal network
-- Implemented NAT for internet access
-- Joined Windows 11 client to domain
-- Applied Group Policy security restrictions
-- Automated user creation using Python scripts
+## Key Features
+
+- Enterprise Active Directory deployment
+- Organizational Units (OU)
+- DNS & DHCP configuration
+- NAT/RRAS internet access
+- Windows 11 domain join
+- Group Policy management
+- Python automated user provisioning
 
 ---
 
-### 🔐 Security & Administration
-- Password complexity enforcement (14+ characters)
-- Account lockout policies (3 failed attempts)
-- Restricted Control Panel, CMD, Microsoft Store, OneDrive
-- Controlled removable storage access via GPO
+## Skills Demonstrated
 
----
-
-### 🤖 Automation
-- Python script for bulk Active Directory user creation
-- Automated username generation and account provisioning
-- LDAP-based directory interaction
-
----
-
-### 📊 Skills Demonstrated
 - Windows Server Administration
-- Active Directory Management
-- Network Infrastructure (DNS, DHCP, NAT)
+- Active Directory Administration
+- DNS / DHCP Management
 - Group Policy Management
-- IT Security Hardening
+- Network Infrastructure
 - Python Automation
-- Virtualized Lab Environments
+- Enterprise Documentation
 
 ---
 
-## 🧪 More Projects Coming Soon
-- AWS Cloud Practitioner labs
-- Network troubleshooting simulations
-- Cybersecurity hardening labs
-- PowerShell automation scripts
+# ☁️ AWS Cloud Infrastructure Lab
+
+## 🔗 Project
+
+https://github.com/christran85-cyber/aws-cloud-infrastructure-lab
+
+---
+
+## Overview
+
+Designed, secured, deployed, monitored, and documented a cloud-based infrastructure using core Amazon Web Services.
+
+This project demonstrates cloud security, identity management, static website hosting, content delivery, monitoring, and cost management following AWS best practices.
+
+---
+
+## AWS Services
+
+- Amazon S3
+- Amazon CloudFront
+- AWS IAM
+- Amazon CloudWatch
+- AWS Budgets
+- AWS Cost Explorer
+
+---
+
+## Key Features
+
+- AWS Account Security
+- IAM Users & Groups
+- Least Privilege Access
+- Multi-Factor Authentication (MFA)
+- Static Website Hosting
+- Global Content Delivery
+- Cloud Infrastructure Monitoring
+- Cost Monitoring & Budgets
+- Cloud Resource Cleanup
+
+---
+
+## Skills Demonstrated
+
+- AWS IAM
+- Amazon S3
+- Amazon CloudFront
+- Amazon CloudWatch
+- AWS Budgets
+- AWS Cost Explorer
+- Cloud Infrastructure
+- Cloud Security
+- Cloud Monitoring
+- Cloud Cost Optimization
+- GitHub Documentation
+
+---
+
+# 📈 Current Learning
+
+Currently expanding my knowledge in:
+
+- Linux Administration
+- AWS Solutions Architecture
+- Networking
+- Cloud Security
+- Python Automation
+- Infrastructure as Code
+- Cybersecurity
+
+---
+
+# 🚧 Upcoming Projects
+
+- Proxmox Enterprise Homelab
+- OPNsense Enterprise Firewall
+- Windows Server High Availability
+- Microsoft Azure Infrastructure Lab
+- Linux Server Administration
+- Enterprise Networking Lab
+- AWS Three-Tier Architecture
+- AWS VPC & EC2 Deployment
+- Infrastructure as Code (Terraform)
+- PowerShell Automation
+- Python Infrastructure Automation
 
 ---
 
 # 📫 Contact
-- LinkedIn: www.linkedin.com/in/chris-tran-2632bb192
 
-- Email: christran85@gmail.com
+**LinkedIn**
+
+https://www.linkedin.com/in/chris-tran-2632bb192
+
+**Email**
+
+christran85@gmail.com
